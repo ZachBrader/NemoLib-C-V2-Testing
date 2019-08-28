@@ -13,5 +13,11 @@ In Netbeans with C/C++ Plugins:
 * Select "Linker".Click “Libraries”->“Add Library File” and choose the NemoLib-C-V2-StaticLib/dist/Debug/CLang-Windows/libnemolib-c-v2-staticlib.a”
 * Make sure that "exampleGraph.txt" files exists in the same folder as "main.cpp". 
 * Try building and running the program.
-* To test other files, try modifying the 
+* To test other files, try modifying the command arguments.
+
 In Visual Studios:  
+* Create a new C++ project. 
+* Copy "main.cpp" into the same folder as all of the files from NemoLib-C-V2-StaticLib.
+* Include all the files into the project.
+* Set the project's settings to C++14, Release, and x64. (The later two are for speed improvements).
+* Build and run.
