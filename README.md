@@ -1,6 +1,19 @@
 # NemoLib-C-V2-Testing
+This program is for testing NemoLib C++ version 2, available at https://github.com/ZachBrader/NemoLib-C-V2-StaticLib. 
+
+If you are interested in the original version, the library is available from https://github.com/Kimw6/NemoLibC, and the testing file is at https://github.com/Kimw6/NemoLibC-Testing.
+
+The latest Java version is available at https://github.com/Kimw6/NemoLib-Java-V2.
 
 # Installation in Linux
+* download main.cpp program to the linux folder
+* compile
+g++ -std=c++11 -c main.cpp -o main.o -I.
+* Link (for example, your NemoLib-C-V2-StaticLib.o is in the home/lib/NemoLib-C-V2-StaticLib folder)
+g++ -o main main.o -Lhome/lib/NemoLib-C-V2-StaticLib -lnemolib-c-v2-staticlib
+* download the "exampleGraph.txt" file.
+* Run
+./main
 
 # Installation in Windows
 
