@@ -1,9 +1,9 @@
 # NemoLib-C-V2-Testing
-This program is for testing NemoLib C++ version 2, available at https://github.com/ZachBrader/NemoLib-C-V2-StaticLib. 
+This program is for testing NemoLib C++ version 2, available at [this link](https://github.com/ZachBrader/NemoLib-C-V2-StaticLib). 
 
-If you are interested in the original version, the library is available from https://github.com/Kimw6/NemoLibC, and the testing file is at https://github.com/Kimw6/NemoLibC-Testing.
+If you are interested in the original version, the library is available from [here](https://github.com/Kimw6/NemoLibC), and the testing file is [here](https://github.com/Kimw6/NemoLibC-Testing).
 
-The latest Java version is available at https://github.com/Kimw6/NemoLib-Java-V2.
+The latest Java version is available at [this location](https://github.com/Kimw6/NemoLib-Java-V2).
 
 # Installation in Linux
 * download main.cpp program to the linux folder
